@@ -1,0 +1,9 @@
+# binaries
+*.cof
+*.eep.hex
+*.hex
+*.obj
+
+# Vim
+*.swp
+*.swo
